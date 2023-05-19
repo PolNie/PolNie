@@ -1,6 +1,6 @@
 ### Hi there 👋
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Pol Nieto👋
-### Freelance full-stack iOS & Android engineer
+#  Hola, mi nombre es Pol Nieto👋
+### 
 
 <!--
 **PolNie/PolNie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
