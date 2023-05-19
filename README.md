@@ -1,4 +1,3 @@
-### Hi there 👋
 #  Hola, mi nombre es Pol Nieto👋
 ### 
 
