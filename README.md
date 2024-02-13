@@ -1,21 +1,21 @@
 ## 👋 Greetings, developers! I'm Pol, here to code with you. 🚀
 
-¡Hola! Soy Pol, un estudiante apasionado de segundo año de grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Mi interés por la tecnología me ha llevado a explorar diversas áreas del desarrollo de software, desde la creación de aplicaciones hasta la gestión de bases de datos y el diseño de sistemas. Soy creativo, resolutivo y disfruto colaborando en equipo. Siempre estoy buscando nuevas formas de abordar los desafíos y estoy comprometido con mi crecimiento profesional en este campo.
+Hello! I'm Pol, a passionate second-year student in Multiplatform Application Development (DAM). My interest in technology has led me to explore various areas of software development, from application creation to database management and system design. I'm creative, resourceful, and enjoy collaborating with teams. I'm always seeking new ways to tackle challenges and committed to my professional growth in this field.
 
 ---
 
-## Tecnologías 💻
+## Technologies 💻
 
-| Categoría               | Tecnologías                                                                                                 |
+| Category                | Technologies                                                                                                |
 |-------------------------|-------------------------------------------------------------------------------------------------------------|
-| Lenguajes de Programación | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) |
+| Programming Languages  | [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) |
 | Frameworks              | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#) |
-| Bases de Datos          | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#) |
+| Databases               | [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#) |
 | Frontend                | [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) |
 | Testing                 | [![Mockito](https://img.shields.io/badge/Mockito-DB8720?style=for-the-badge&logo=mockito&logoColor=white)](#) |
 
-## Proyecto Destacado 🗒
-- **ERP de Gestión de Ligas de Bolos**: Junto a [@marcrleon](https://github.com/marcrleon), desarrollamos un ERP en Java utilizando Spring Boot. Este sistema ofrece una solución simple y eficiente para la gestión de ligas de bolos, facilitando tareas como registro de jugadores, seguimiento de partidos y generación de informes.
+## Featured Project 🗒
+- **Bowling League Management ERP**: Together with [@marcrleon](https://github.com/marcrleon), we developed a Bowling League Management ERP using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and report generation.
 
-## Objetivos 🎯
-Como estudiante de DAM, mi objetivo es continuar aprendiendo y mejorando mis habilidades técnicas. Estoy entusiasmado por explorar nuevas tecnologías y contribuir a proyectos innovadores que puedan tener un impacto positivo en la comunidad. Estoy abierto a oportunidades que me permitan aplicar mis habilidades para crear soluciones significativas y relevantes.
+## Goals 🎯
+As a DAM student, my goal is to continue learning and improving my technical skills. I'm excited to explore new technologies and contribute to innovative projects that can have a positive impact on the community. I'm open to opportunities that allow me to apply my skills to create meaningful and relevant solutions.
