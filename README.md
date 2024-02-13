@@ -1,17 +1,18 @@
-#  Hola, mi nombre es Pol Nieto👋
-### 
+# Pol - Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-<!--
-**PolNie/PolNie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+¡Hola! Soy Pol, un estudiante apasionado de segundo año de grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me encanta explorar nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos y desafiantes.
 
-Here are some ideas to get you started:
+## Habilidades Técnicas
+- **Lenguajes de Programación**: Java
+- **Frameworks**: Spring Boot
+- **Bases de Datos**: SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contribuciones Destacadas
+- **ERP de Gestión de Ligas de Bolos**: Junto a [@marcrodoleon](https://github.com/marcrodoleon), desarrollamos un ERP en Java utilizando Spring Boot. Este sistema ofrece una solución simple y eficiente para la gestión de ligas de bolos, facilitando tareas como registro de jugadores, seguimiento de partidos y generación de informes.
+
+## Objetivos
+Como estudiante de DAM, mi objetivo es seguir aprendiendo y mejorando mis habilidades técnicas. Estoy emocionado por explorar nuevas tecnologías y contribuir a proyectos innovadores que puedan tener un impacto positivo en la comunidad.
+
+## Contacto
+¡No dudes en ponerte en contacto conmigo a través de mi perfil de GitHub para colaboraciones o cualquier consulta!
