@@ -9,7 +9,7 @@
 - **Bases de Datos**: SQL
 
 ## Contribuciones Destacadas
-- **ERP de Gestión de Ligas de Bolos**: Junto a [@marcrodoleon](https://github.com/marcrodoleon), desarrollamos un ERP en Java utilizando Spring Boot. Este sistema ofrece una solución simple y eficiente para la gestión de ligas de bolos, facilitando tareas como registro de jugadores, seguimiento de partidos y generación de informes.
+- **ERP de Gestión de Ligas de Bolos**: Junto a [@marcrleon](https://github.com/marcrleon), desarrollamos un ERP en Java utilizando Spring Boot. Este sistema ofrece una solución simple y eficiente para la gestión de ligas de bolos, facilitando tareas como registro de jugadores, seguimiento de partidos y generación de informes.
 
 ## Objetivos
 Como estudiante de DAM, mi objetivo es seguir aprendiendo y mejorando mis habilidades técnicas. Estoy emocionado por explorar nuevas tecnologías y contribuir a proyectos innovadores que puedan tener un impacto positivo en la comunidad.
