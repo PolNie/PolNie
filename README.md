@@ -7,8 +7,8 @@
 - **Lenguajes de Programación**: [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
 - **Frameworks**: [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 - **Bases de Datos**: [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-- **Frontend**: HTML, CSS
-- **Testing**: Mockito
+- **Frontend**: [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+- **Testing**: [![Mockito](https://img.shields.io/badge/Mockito-DB8720?style=for-the-badge&logo=mockito&logoColor=white)](#)
 
 ## Proyecto Destacado
 - **ERP de Gestión de Ligas de Bolos**: Junto a [@marcrleon](https://github.com/marcrleon), desarrollamos un ERP en Java utilizando Spring Boot. Este sistema ofrece una solución simple y eficiente para la gestión de ligas de bolos, facilitando tareas como registro de jugadores, seguimiento de partidos y generación de informes.
