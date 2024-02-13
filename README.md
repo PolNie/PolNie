@@ -15,7 +15,7 @@ Hello! I'm Pol, a passionate second-year student in Multiplatform Application De
 | Testing                 | [![Mockito](https://img.shields.io/badge/Mockito-DB8720?style=for-the-badge&logo=mockito&logoColor=white)](#) |
 
 ## Featured Project 🗒
-- **Bowling League Management ERP**: Together with [@marcrleon](https://github.com/marcrleon), we developed a Bowling League Management ERP using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and report generation.
+- **Bowling League Management ERP**: Together with [@marcrleon](https://github.com/marcrleon), we developed a simple [Bowling League Management ERP](https://gitlab.com/rodo.leon.marc/projecte-2/-/tree/master?ref_type=heads) using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and team management.
 
 ## Goals 🎯
 As a DAM student, my goal is to continue learning and improving my technical skills. I'm excited to explore new technologies and contribute to innovative projects that can have a positive impact on the community. I'm open to opportunities that allow me to apply my skills to create meaningful and relevant solutions.
