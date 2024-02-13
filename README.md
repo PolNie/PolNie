@@ -2,6 +2,8 @@
 
 ¡Hola! Soy Pol, un estudiante apasionado de segundo año de grado superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Mi interés por la tecnología me ha llevado a explorar diversas áreas del desarrollo de software, desde la creación de aplicaciones hasta la gestión de bases de datos y el diseño de sistemas. Soy creativo, resolutivo y disfruto colaborando en equipo. Siempre estoy buscando nuevas formas de abordar los desafíos y estoy comprometido con mi crecimiento profesional en este campo.
 
+---
+
 ## Tecnologías 💻
 - **Lenguajes de Programación**: [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) 
 - **Frameworks**: [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
