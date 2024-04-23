@@ -19,7 +19,7 @@ Hello! I'm Pol, a passionate second-year student in Multiplatform Application De
 ## Featured Projects 🗒
 - **Bowling League Management ERP**: Together with [@marcrleon](https://github.com/marcrleon), we developed a simple [Bowling League Management ERP](https://github.com/PolNie/ERP-Bowling-League-Management) using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and team management.
 
-- **Sushi Go App Android/Kotlin**: /*TODO*/
+- **Sushi Go App**: Alongside [@brandon](https://github.com/) (team leader), [@hugo](https://github.com/), and [@gabriel](https://github.com/), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
 
 ## Goals 🎯
 As a DAM student, my goal is to continue learning and improving my technical skills. I'm excited to explore new technologies and contribute to innovative projects that can have a positive impact on the community. I'm open to opportunities that allow me to apply my skills to create meaningful and relevant solutions.
