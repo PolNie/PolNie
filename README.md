@@ -21,7 +21,7 @@ Hello! I'm Pol, a passionate second-year student in Multiplatform Application De
 
 - **Sushi Go App**: Alongside [@brandon](https://github.com/BrandonJimenez23) (team leader), [@hugo](https://github.com/FirerKraken/), and [@gabriel](https://github.com/GabrielCadafalch), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
 
-- **Secrets Of The Maze**: /*IN DEVELOPEMENT*/
+- **Secrets Of The Maze**: _IN DEVELOPEMENT_
 
 ## Goals 🎯
 As a DAM student, my goal is to continue learning and improving my technical skills. I'm excited to explore new technologies and contribute to innovative projects that can have a positive impact on the community. I'm open to opportunities that allow me to apply my skills to create meaningful and relevant solutions.
