@@ -17,11 +17,11 @@ Hello! I'm Pol, a passionate second-year student in Multiplatform Application De
 
 
 ## Featured Projects 🗒
-- **Bowling League Management ERP**: Together with [@marcrleon](https://github.com/marcrleon), we developed a simple [Bowling League Management ERP](https://github.com/PolNie/ERP-Bowling-League-Management) using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and team management.
+- **Bowling League Management ERP**: Together with Marc, we developed a simple [Bowling League Management ERP](https://github.com/PolNie/ERP-Bowling-League-Management) using Java and Spring Boot. This system provides a simple and efficient solution for managing bowling leagues, facilitating tasks such as player registration, match tracking, and team management.
 
 - **Sushi Go App**: Alongside [@brandon](https://github.com/BrandonJimenez23) (team leader), [@hugo](https://github.com/FirerKraken/), and [@gabriel](https://github.com/GabrielCadafalch), we have designed an application in Android Kotlin, [Sushi Go](https://github.com/PolNie/Sushi-Go-App). This application focuses on the geolocation of restaurants, their visualization, and categorization, aimed at direct interaction with the user. The purpose is to enable users to find the nearest and/or top-rated Asian cuisine restaurants, both nearby and in other cities.
 
-- **Battle Gun**: For the first time, I've undertaken a solo project and I've developed a 3D game in Unity called [Battle Gun](https://github.com/PolNie/Battle-Gun). The game is a fast-paced first-person shooter where players battle enemies across abandoned city. Test your skills and overcome obstacles to achieve the victory. The aim of this project is to gain autonomy and venture into the unexplored world of Unity for me.
+- **Battle Gun**: For the first time, I've undertaken a solo project and I've developed a 3D game in Unity called [Battle Gun](https://github.com/PolNie/BattleGunRepo). The game is a fast-paced first-person shooter where players battle enemies across abandoned city. Test your skills and overcome obstacles to achieve the victory. The aim of this project is to gain autonomy and venture into the unexplored world of Unity for me.
 
 ## Goals 🎯
 As a DAM student, my goal is to continue learning and improving my technical skills. I'm excited to explore new technologies and contribute to innovative projects that can have a positive impact on the community. I'm open to opportunities that allow me to apply my skills to create meaningful and relevant solutions.
